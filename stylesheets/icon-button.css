@@ -71,7 +71,7 @@
   top: 0.12em;
   line-height: 0;
 }
-.button.icon.phone:before {
+.button.icon.target:before {
   content: '🎯 ';
 }
 .button.icon.add-contact:before {
